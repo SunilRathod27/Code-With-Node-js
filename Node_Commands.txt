@@ -1,0 +1,12 @@
+1. node --version
+
+2. npm--version
+
+3. npm init
+
+4. npm i express --save 
+
+short cut npm i express 
+Save to Machine 
+
+5. npm i -g nodemon
